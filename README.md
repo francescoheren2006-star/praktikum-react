@@ -26,8 +26,3 @@ Pilih tugas melalui tombol tab di bagian atas halaman.
 | Pengayaan 2 | `src/components/DaftarTugas.jsx` | Edit judul tugas dengan validasi, `id` tetap |
 
 Identitas (nama, NIM, program studi) diatur di `src/identitas.js`.
-
-## Catatan
-
-Karena pengayaan 1 aktif, tugas tidak lagi kembali ke data awal setelah halaman dimuat ulang.
-Untuk mengulang dari data awal, hapus kunci `daftar-tugas-kuliah` di DevTools → Application → Local Storage.
